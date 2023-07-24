@@ -10,9 +10,10 @@ const contactos = []
 //agrego a la variable contactos un metdo push 
 
 
+
 function menu() {
     console.log("==================================================")
-    console.log("menu")
+    console.log("menu v1.1")
     console.log("==================================================")
     console.log("1.-  listar contactos")
     console.log("--------------------------------------------------")
